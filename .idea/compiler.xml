@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Aleksandr_Danichev" />
+        <module name="Alex_Makarychev" />
+        <module name="Andrey" />
+        <module name="denis_ramik" />
+        <module name="dmitriy_maximuk" />
+        <module name="Evgen_Boldyr" />
+        <module name="Hai_Le" />
+        <module name="Pro002_examples" />
+        <module name="ruslan_stetsenko" />
+        <module name="SemenSaushkin" />
+        <module name="Sergey_Doroshenko" />
+        <module name="Vika_Chumak" />
+        <module name="Yaroslav_Garbar" />
+        <module name="Yulia_Murziak" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Aleksandr_Danichev" target="1.8" />
+      <module name="Alex_Makarychev" target="1.8" />
+      <module name="Andrey" target="1.8" />
+      <module name="denis_ramik" target="1.8" />
+      <module name="dmitriy_maximuk" target="1.8" />
+      <module name="Evgen_Boldyr" target="1.8" />
+      <module name="Hai_Le" target="1.8" />
+      <module name="Pro002" target="1.8" />
+      <module name="Pro002_examples" target="1.8" />
+      <module name="ProfKurs" target="1.8" />
+      <module name="ruslan_stetsenko" target="1.8" />
+      <module name="SemenSaushkin" target="1.8" />
+      <module name="Sergey_Doroshenko" target="1.8" />
+      <module name="Vika_Chumak" target="1.8" />
+      <module name="Yaroslav_Garbar" target="1.8" />
+      <module name="Yulia_Murziak" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
